@@ -1,4 +1,4 @@
-hello git!
+hello git!    learn git for today!
 hello git!
 hello git!
 hello git!
